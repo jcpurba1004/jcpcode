@@ -1,0 +1,5 @@
+wage = float(input("Enter the wage: $"))
+regularHours = float(input("Enter the regular hours: ")) 
+overtimeHours = float(input("Enter the overtime hours: "))
+totalPay = float((wage*regularHours) + (1.5*wage*overtimeHours))
+print("The total weekly pay is  $", totalPay)

@@ -1,0 +1,4 @@
+Lennon 12 3.33
+McCartney 57 7
+Harrison 11 9.1
+Starr 3 4.13

@@ -1,0 +1,7 @@
+initialNumber = int(input("Enter the initial number: "))
+rateGrowth = int(input("Enter the rate of growth: "))
+numberHours = int(input("Enter the number of hours: "))
+totalHours = int(input("Enter the total hours: "))
+time = int(totalHours / numberHours)
+total = initialNumber * (rateGrowth**time)
+print("The total population is ", total)

@@ -1,0 +1,4 @@
+Lennon  12 39.96
+McCartney  57 399.00
+Harrison 11 100.10
+Starr 3 12.39
