@@ -1,5 +1,6 @@
 # Welcome to My personal Repo
-My name is Jeremiah Purba and I'm a part time student at San Diego Mesa College. 
+My name is Jeremiah Purba and I'm a part time student at San Diego Mesa College. Connect with me on [LinkedIn](https://www.linkedin.com/in/jeremiah-purba-a429462a7/) 
+
 I put my codes from all of programming courses that I took, such as:
 * Python Programming (CISC 179)
   
