@@ -21,3 +21,4 @@ I put my codes from all of programming courses that I took, such as:
   * Access Database using Basic Web Framework such as Python Flask
   * Database Analysis using Python
 
+[![LinkedIn Certificate](https://media.licdn.com/dms/image/v2/D5622AQGVCijtRVxUBg/feedshare-shrink_1280/feedshare-shrink_1280/0/1704176144456?e=1754524800&v=beta&t=aqhJlLXTg5k4LfMq_T3Nte2zVXIzz6Q89PheJbToTrI)]([YOUR_CERTIFICATE_URL](https://www.linkedin.com/learning/certificates/f712f835443b24df77af43096f5dfb8bbc90317f4f233fba3f47195e6ccc3c11))
