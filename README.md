@@ -1,5 +1,5 @@
 # Welcome to My personal Repo
-My name is Jeremiah Purba and I'm a part time student at San Diego Mesa College. In the future, I would like to work as a software engineer using machine learning and AI knowledge. I have been using tools such as Visual Studio Code (VS Code), Visual Studio Community Edition, Eclipse, Brackets, BlueJ, DB Browser for SQLite, MySQL Workbench, GNU compiler on Ubuntu to compile and build the code. Connect with me on [LinkedIn](https://www.linkedin.com/in/jeremiah-purba-a429462a7/) 
+My name is Jeremiah Purba and I'm a part time student at San Diego Mesa College. In the future, I would like to work as a software engineer using machine learning and AI knowledge. I have been using tools such as Visual Studio Code (VS Code), Visual Studio Community Edition, Eclipse, Brackets, BlueJ, xampp, DB Browser for SQLite, MySQL Workbench, GNU compiler on Ubuntu to compile and build the code. Connect with me on [LinkedIn](https://www.linkedin.com/in/jeremiah-purba-a429462a7/) 
 
 I put my codes from all of programming courses that I took, such as:
 * Python Programming (CISC 179)
